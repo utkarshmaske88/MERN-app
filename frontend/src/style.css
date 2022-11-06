@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(130, 130, 130);
+    border-radius: 20px;
+  cursor: pointer;
+}
+
+.searcheddata{
+  display: grid;
+  
+}
